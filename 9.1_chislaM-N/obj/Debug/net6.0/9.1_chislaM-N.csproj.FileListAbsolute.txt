@@ -1,0 +1,16 @@
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.1_chislaM-N\bin\Debug\net6.0\9.1_chislaM-N.exe
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.1_chislaM-N\bin\Debug\net6.0\9.1_chislaM-N.deps.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.1_chislaM-N\bin\Debug\net6.0\9.1_chislaM-N.runtimeconfig.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.1_chislaM-N\bin\Debug\net6.0\9.1_chislaM-N.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.1_chislaM-N\bin\Debug\net6.0\ref\9.1_chislaM-N.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.1_chislaM-N\bin\Debug\net6.0\9.1_chislaM-N.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.1_chislaM-N\obj\Debug\net6.0\9.1_chislaM-N.GlobalUsings.g.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.1_chislaM-N\obj\Debug\net6.0\9.1_chislaM-N.csproj.AssemblyReference.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.1_chislaM-N\obj\Debug\net6.0\9.1_chislaM-N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.1_chislaM-N\obj\Debug\net6.0\9.1_chislaM-N.AssemblyInfoInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.1_chislaM-N\obj\Debug\net6.0\9.1_chislaM-N.AssemblyInfo.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.1_chislaM-N\obj\Debug\net6.0\9.1_chislaM-N.csproj.CoreCompileInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.1_chislaM-N\obj\Debug\net6.0\9.1_chislaM-N.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.1_chislaM-N\obj\Debug\net6.0\ref\9.1_chislaM-N.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.1_chislaM-N\obj\Debug\net6.0\9.1_chislaM-N.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.1_chislaM-N\obj\Debug\net6.0\9.1_chislaM-N.genruntimeconfig.cache
