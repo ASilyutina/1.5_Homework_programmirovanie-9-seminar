@@ -1,0 +1,16 @@
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.2_summaM-N\bin\Debug\net6.0\9.2_summaM-N.exe
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.2_summaM-N\bin\Debug\net6.0\9.2_summaM-N.deps.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.2_summaM-N\bin\Debug\net6.0\9.2_summaM-N.runtimeconfig.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.2_summaM-N\bin\Debug\net6.0\9.2_summaM-N.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.2_summaM-N\bin\Debug\net6.0\ref\9.2_summaM-N.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.2_summaM-N\bin\Debug\net6.0\9.2_summaM-N.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.2_summaM-N\obj\Debug\net6.0\9.2_summaM-N.GlobalUsings.g.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.2_summaM-N\obj\Debug\net6.0\9.2_summaM-N.csproj.AssemblyReference.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.2_summaM-N\obj\Debug\net6.0\9.2_summaM-N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.2_summaM-N\obj\Debug\net6.0\9.2_summaM-N.AssemblyInfoInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.2_summaM-N\obj\Debug\net6.0\9.2_summaM-N.AssemblyInfo.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.2_summaM-N\obj\Debug\net6.0\9.2_summaM-N.csproj.CoreCompileInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.2_summaM-N\obj\Debug\net6.0\9.2_summaM-N.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.2_summaM-N\obj\Debug\net6.0\ref\9.2_summaM-N.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.2_summaM-N\obj\Debug\net6.0\9.2_summaM-N.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.2_summaM-N\obj\Debug\net6.0\9.2_summaM-N.genruntimeconfig.cache
