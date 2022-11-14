@@ -1,0 +1,16 @@
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.5_pervyeNchisel\bin\Debug\net6.0\9.5_pervyeNchisel.exe
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.5_pervyeNchisel\bin\Debug\net6.0\9.5_pervyeNchisel.deps.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.5_pervyeNchisel\bin\Debug\net6.0\9.5_pervyeNchisel.runtimeconfig.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.5_pervyeNchisel\bin\Debug\net6.0\9.5_pervyeNchisel.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.5_pervyeNchisel\bin\Debug\net6.0\ref\9.5_pervyeNchisel.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.5_pervyeNchisel\bin\Debug\net6.0\9.5_pervyeNchisel.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.5_pervyeNchisel\obj\Debug\net6.0\9.5_pervyeNchisel.GlobalUsings.g.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.5_pervyeNchisel\obj\Debug\net6.0\9.5_pervyeNchisel.csproj.AssemblyReference.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.5_pervyeNchisel\obj\Debug\net6.0\9.5_pervyeNchisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.5_pervyeNchisel\obj\Debug\net6.0\9.5_pervyeNchisel.AssemblyInfoInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.5_pervyeNchisel\obj\Debug\net6.0\9.5_pervyeNchisel.AssemblyInfo.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.5_pervyeNchisel\obj\Debug\net6.0\9.5_pervyeNchisel.csproj.CoreCompileInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.5_pervyeNchisel\obj\Debug\net6.0\9.5_pervyeNchisel.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.5_pervyeNchisel\obj\Debug\net6.0\ref\9.5_pervyeNchisel.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.5_pervyeNchisel\obj\Debug\net6.0\9.5_pervyeNchisel.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.5_pervyeNchisel\obj\Debug\net6.0\9.5_pervyeNchisel.genruntimeconfig.cache
