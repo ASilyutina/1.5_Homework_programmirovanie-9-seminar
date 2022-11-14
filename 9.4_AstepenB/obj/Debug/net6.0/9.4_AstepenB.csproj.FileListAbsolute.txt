@@ -1,0 +1,16 @@
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.4_AstepenB\bin\Debug\net6.0\9.4_AstepenB.exe
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.4_AstepenB\bin\Debug\net6.0\9.4_AstepenB.deps.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.4_AstepenB\bin\Debug\net6.0\9.4_AstepenB.runtimeconfig.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.4_AstepenB\bin\Debug\net6.0\9.4_AstepenB.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.4_AstepenB\bin\Debug\net6.0\ref\9.4_AstepenB.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.4_AstepenB\bin\Debug\net6.0\9.4_AstepenB.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.4_AstepenB\obj\Debug\net6.0\9.4_AstepenB.GlobalUsings.g.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.4_AstepenB\obj\Debug\net6.0\9.4_AstepenB.csproj.AssemblyReference.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.4_AstepenB\obj\Debug\net6.0\9.4_AstepenB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.4_AstepenB\obj\Debug\net6.0\9.4_AstepenB.AssemblyInfoInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.4_AstepenB\obj\Debug\net6.0\9.4_AstepenB.AssemblyInfo.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.4_AstepenB\obj\Debug\net6.0\9.4_AstepenB.csproj.CoreCompileInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.4_AstepenB\obj\Debug\net6.0\9.4_AstepenB.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.4_AstepenB\obj\Debug\net6.0\ref\9.4_AstepenB.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.4_AstepenB\obj\Debug\net6.0\9.4_AstepenB.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.4_AstepenB\obj\Debug\net6.0\9.4_AstepenB.genruntimeconfig.cache
