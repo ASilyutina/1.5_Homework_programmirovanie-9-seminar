@@ -1,0 +1,16 @@
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.3_Akkerman_function\bin\Debug\net6.0\9.3_Akkerman_function.exe
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.3_Akkerman_function\bin\Debug\net6.0\9.3_Akkerman_function.deps.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.3_Akkerman_function\bin\Debug\net6.0\9.3_Akkerman_function.runtimeconfig.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.3_Akkerman_function\bin\Debug\net6.0\9.3_Akkerman_function.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.3_Akkerman_function\bin\Debug\net6.0\ref\9.3_Akkerman_function.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.3_Akkerman_function\bin\Debug\net6.0\9.3_Akkerman_function.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.3_Akkerman_function\obj\Debug\net6.0\9.3_Akkerman_function.GlobalUsings.g.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.3_Akkerman_function\obj\Debug\net6.0\9.3_Akkerman_function.csproj.AssemblyReference.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.3_Akkerman_function\obj\Debug\net6.0\9.3_Akkerman_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.3_Akkerman_function\obj\Debug\net6.0\9.3_Akkerman_function.AssemblyInfoInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.3_Akkerman_function\obj\Debug\net6.0\9.3_Akkerman_function.AssemblyInfo.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.3_Akkerman_function\obj\Debug\net6.0\9.3_Akkerman_function.csproj.CoreCompileInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.3_Akkerman_function\obj\Debug\net6.0\9.3_Akkerman_function.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.3_Akkerman_function\obj\Debug\net6.0\ref\9.3_Akkerman_function.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.3_Akkerman_function\obj\Debug\net6.0\9.3_Akkerman_function.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\9_seminar\9.3_Akkerman_function\obj\Debug\net6.0\9.3_Akkerman_function.genruntimeconfig.cache
